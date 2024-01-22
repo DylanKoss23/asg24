@@ -11,24 +11,37 @@
 </template>
 
 <style scoped>
+body {
+  background-color: black;
+  color: white;
+}
+
 header {
   display: flex;
-  justify-content: space-between;
+ justify-content: space-between;
   gap: 2rem;
   padding: 2rem;
   color: rgb(116, 26, 190);
-  background-color: black;
+  background-color: rgb(174, 177, 0);
 }
+
 a {
-  color: white;
+  color: rgb(0, 247, 255);
   text-decoration: none;
 }
+
 a:hover {
   color: red;
 }
+
 nav {
   display: flex;
   justify-content: space-between;
   gap: 12px;
+}
+
+main {
+  background-color: purple;
+  color: white;
 }
 </style>
