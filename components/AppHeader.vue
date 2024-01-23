@@ -13,7 +13,7 @@
 <style scoped>
 body {
   background-color: black;
-  color: white;
+  color: rgb(148, 23, 23);
 }
 
 header {
