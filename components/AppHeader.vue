@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: red;
+  color: rgb(255, 255, 255);
 }
 
 nav {
