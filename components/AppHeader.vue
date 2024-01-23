@@ -21,7 +21,7 @@ header {
  justify-content: space-between;
   gap: 2rem;
   padding: 2rem;
-  color: rgb(116, 26, 190);
+  color: rgb(196, 42, 106);
   background-color: rgb(174, 177, 0);
 }
 
@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(131, 63, 63);
 }
 
 nav {
@@ -41,7 +41,7 @@ nav {
 }
 
 main {
-  background-color: purple;
+  background-color: rgb(180, 62, 180);
   color: white;
 }
 </style>
